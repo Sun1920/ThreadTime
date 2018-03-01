@@ -286,7 +286,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 4WT8DZRCT4;
-				INFOPLIST_FILE = test/Info.plist;
+				INFOPLIST_FILE = ThreadTime/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kuruiaosi.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -298,7 +298,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 4WT8DZRCT4;
-				INFOPLIST_FILE = test/Info.plist;
+				INFOPLIST_FILE = ThreadTime/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kuruiaosi.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
